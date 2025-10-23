@@ -1,4 +1,13 @@
-# 🏗 Scaffold-ETH 2
+# Hello Intuition 
+
+A quick hello world greeter contract on Intuition. 
+
+Live url: https://community.bgipfs.com/ipfs/bafybeifzdftqm5a3efenmjxwrr52gpnf56hkpsu3kr5w5u7q44fravopuu
+
+<img width="1286" height="830" alt="image" src="https://github.com/user-attachments/assets/5c357a3e-080b-4ded-9668-a4c71f2056a0" />
+
+
+## Built with 🏗 Scaffold-ETH 2
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |

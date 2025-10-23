@@ -6,6 +6,11 @@ Live url: https://community.bgipfs.com/ipfs/bafybeifzdftqm5a3efenmjxwrr52gpnf56h
 
 <img width="1286" height="830" alt="image" src="https://github.com/user-attachments/assets/5c357a3e-080b-4ded-9668-a4c71f2056a0" />
 
+You can use this to deploy directly to Intuition or update packages/nextjs/scaffold.config.ts to have `targetNetworks: [chains.foundry]` to work on localhost.
+
+(the run the usual yarn install, yarn chain, yarn start, yarn deploy) 
+
+---
 
 ## Built with 🏗 Scaffold-ETH 2
 

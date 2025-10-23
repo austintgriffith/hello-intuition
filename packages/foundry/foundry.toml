@@ -26,6 +26,8 @@ scrollSepolia = "https://sepolia-rpc.scroll.io"
 scroll = "https://rpc.scroll.io"
 pgn = "https://rpc.publicgoods.network"
 pgnTestnet = "https://sepolia.publicgoods.network"
+intuition = "https://rpc.intuition.systems/http"
+intuitionTestnet = "https://testnet.rpc.intuition.systems/http"
 
 
 localhost = "http://127.0.0.1:8545"
@@ -33,6 +35,8 @@ localhost = "http://127.0.0.1:8545"
 [etherscan]
 polygonMumbai = { key = "${ETHERSCAN_API_KEY}" }
 sepolia = { key = "${ETHERSCAN_API_KEY}" }
+intuition = { key = "${ETHERSCAN_API_KEY}", url = "https://explorer.intuition.systems/api" }
+intuitionTestnet = { key = "${ETHERSCAN_API_KEY}", url = "https://testnet.explorer.intuition.systems/api" }
 
 
 
